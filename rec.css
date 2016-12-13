@@ -1,0 +1,25 @@
+body {
+	background-color:gray;
+}
+#intro {
+	padding: 5% 10% 0% 10%;
+}
+h1 {
+	font-family: "ff-prater-block-web",sans-serif;
+	font-style: normal;
+	text-align:center;
+	font-weight: 400;
+	font-size:100px;
+	line-height: 90%;
+}
+p {
+	font-family: "lores-9-narrow",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size:25px;
+	text-align:center;
+	line-height: 90%;
+}
+#ingreeds {
+	padding: 3% 10% 10% 10%;
+}
